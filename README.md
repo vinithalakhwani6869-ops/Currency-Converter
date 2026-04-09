@@ -17,3 +17,5 @@ A simple web app that converts currencies using real-time exchange rates.
 ## Future Improvements
 - Add API integration
 - Improve UI
+- Auto detect user Currency
+- Showing Live Rate Trend
