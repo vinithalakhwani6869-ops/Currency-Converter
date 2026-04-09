@@ -4,8 +4,7 @@ A simple web app that converts currencies using real-time exchange rates.
 ## Features
 - Convert between currencies
 - Clean UI
-- Real-time exchange rate display
-
+  
 ## Tech Stack
 - HTML
 - CSS
